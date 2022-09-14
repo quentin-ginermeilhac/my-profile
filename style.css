@@ -1,0 +1,56 @@
+body{
+    background-image: url(images/espace.jpg);
+    text-align: center;
+}
+
+h1{
+   font-size: 75;
+    color: #D36B00;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2{
+    color: #42032C;
+    text-align: center;
+}
+
+img{
+    width: 250px;
+    size: 250px;
+    border-radius : 50%;
+}
+
+#nekfeu{
+    color:#42032C
+}
+
+div{
+    background : #D36B00;
+    border : 3px solid black;
+    margin : 30px;
+    border-radius: 25px;
+    padding : 10px;
+    box-shadow : 12px 12px 7px #42032C;
+}
+
+.icone{
+    height : 50px;
+    width : 50px;
+    border-radius : 0px;
+}
+.feu{
+    color: #42032C;
+    text-decoration: none;
+}
+
+.icones{
+    display : flex;
+    justify-content : center;
+    gap : 30px;
+    background : none;
+    border : 0px;
+    box-shadow : 0px 0px 0px;
+    align-items : flex-end;
+    flex-direction: raw;
+}
